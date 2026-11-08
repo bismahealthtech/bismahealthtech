@@ -40,7 +40,7 @@ I'm interested in collaborating with researchers, healthcare professionals, deve
 
 📫 Connect With Me
 
--LinkedIn: Bisma Zafar
+-LinkedIn: www.linkedin.com/in/bisma-zafar-914517423
 -GitHub: @bismahealthtech
 
 "Bridging healthcare, research, and technology to create meaningful impact." 🌱
