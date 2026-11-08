@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Bisma Zafar! 👋
 
-<!--
-**bismahealthtech/bismahealthtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Physiotherapist | Women's Health | Healthcare Research | Biomechanics | Digital Health**
 
-Here are some ideas to get you started:
+I'm a physiotherapist from Lahore, Pakistan, currently pursuing postgraduate studies specializing in Women's Health Physiotherapy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about bridging the gap between healthcare, scientific research, and technology to develop innovative solutions that improve health and rehabilitation outcomes.
+
+### 🔭 What I'm Working On
+- Exploring AI-driven healthcare and rehabilitation solutions.
+- Developing digital health and musculoskeletal monitoring projects.
+- Exploring biomechanics and movement analysis.
+- Building my research portfolio in women's health and rehabilitation.
+
+### 🌱 Areas of Interest
+- Women's Health & Pelvic Health Physiotherapy
+- Biomechanics & Movement Science
+- Healthcare Research & Evidence-Based Practice
+- Artificial Intelligence in Healthcare
+- Digital Health & Medical Technology
+- Rehabilitation Innovation
+
+### 🧠 Skills & Tools
+- Physiotherapy & Clinical Assessment
+- Research Methodology
+- Evidence-Based Practice
+- SPSS & Statistical Analysis
+- Scientific Literature Review
+- Healthcare Innovation
+
+### 🚀 Featured Projects
+- **AeroRehab:** An astronaut musculoskeletal health monitoring and rehabilitation concept developed for NASA Space Apps Challenge 2026.
+
+### 🤝 Let's Collaborate!
+I'm interested in collaborating with researchers, healthcare professionals, developers, and innovators working on:
+- AI and digital health solutions
+- Women's health research
+- Biomechanics and rehabilitation technology
+- Healthcare innovation projects
+
+📫 Connect With Me
+
+-LinkedIn: Bisma Zafar
+-GitHub: @bismahealthtech
+
+"Bridging healthcare, research, and technology to create meaningful impact." 🌱
+
+---
+
+*"Bridging healthcare, research, and technology to create meaningful impact."* 🌱
